@@ -18,6 +18,7 @@ class Calculadora : AppCompatActivity(), View.OnClickListener {
         campoEditText = findViewById(R.id.editTextCalc)
     }
 
+    ////teste
     override fun onClick(view: View) {
         //recebe click dos buttons
         val clickButtonsNumerico = view as TextView
