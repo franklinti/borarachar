@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colordegradestart">#605656</color>
+    <color name="colordegradeend">#f0d069</color>
+    <color name="colorTextButtonCalc">#FF36E10F</color>
+    <color name="colorTextButtonCalcC">#E33B3B</color>
+</resources>

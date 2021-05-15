@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Bora Rachar</string>
+    <string name="nomeEmpresa_text">Ful&amp;t</string>
+    <string name="clique_para_executar_text">Clique para executar</string>
+    <string name="calcular_gorjeta_text">Preencha os campos</string>
+    <string name="conta_text">Conta</string>
+    <string name="gorjeta_text">Gorjeta</string>
+    <string name="valor_consumido_text">Valor total consumido?</string>
+    <string name="como_foi_o_servico_text">Como foi o serviço?</string>
+    <string name="remove_gorjeta_text">Diminui Gorjeta</string>
+    <string name="adiciona_gorjeta_text">Adiciona Gorjeta</string>
+    <string name="diminuir_amigos_text">Diminuir amigos</string>
+    <string name="adicionar_amigos_text">Adicionar amigos</string>
+    <string name="imagem_valor_gorjeta_text">Imagem valor gorjeta</string>
+    <string name="_0_text">0</string>
+    <string name="simbolo_porcentagem_text">%</string>
+    <string name="quantos_amigos_text">Quantos Amigos?</string>
+    <string name="limite_maximo_gorjeta_text">Limite máximo gorjeta!</string>
+    <string name="insira_valor_da_conta_text">Insira valor da conta!</string>
+    <string name="limite_numero">Nao foi possivel inserir mais de 15 digitos</string>
+    <string name="r_0_00_text">R$0.00</string>
+    <string name="valor_total_text">Valor total</string>
+    <string name="valor_p_amigo_text">Valor p/Amigo</string>
+    <string name="card_text">Bora Rachar</string>
+    <string name="calcular_text">Calcular</string>
+    <string name="arredondar_gorjeta_text">Arredondar gorjeta</string>
+    <string name="versao_text">versão.1.0.0</string>
+    <string name="freepik"><a href="http://www.freepik.com"></a></string>
+    <string name="action_info">info</string>
+    <string name="action_sair">sair</string>
+
+    <string name="action_dividir">/</string>
+    <string name="action_porcentagem">%</string>
+    <string name="action_parentesis">( )</string>
+    <string name="action_c">C</string>
+    <string name="action_mult">x</string>
+    <string name="action_somar">+</string>
+    <string name="action_subtrair">-</string>
+    <string name="action_igual">=</string>
+    <string name="action_virgula">,</string>
+    <string name="action_sinal">+/-</string>
+    <string name="action_1">1</string>
+    <string name="action_2">2</string>
+    <string name="action_3">3</string>
+    <string name="action_4">4</string>
+    <string name="action_5">5</string>
+    <string name="action_6">6</string>
+    <string name="action_7">7</string>
+    <string name="action_8">8</string>
+    <string name="action_9">9</string>
+    <string name="action_0">0</string>
+
+
+
+</resources>
